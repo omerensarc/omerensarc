@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome to my GitHub!</h1>
+<h1 align="center">Hi 👋, I'm Ömer</h1>
 
-<p align="center">A passionate backend developer who loves turning ideas into working systems.</p>
+<h1 align="center">A passionate backend developer who loves turning ideas into working systems.</h1>
 
 ---
 
