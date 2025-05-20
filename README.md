@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer</h1>
 
-<h1 align="center">A passionate backend developer who loves turning ideas into working systems.</h1>
+<h2 align="center">A passionate backend developer who loves turning ideas into working systems.</h2>
 
 ---
 
