@@ -4,7 +4,7 @@
 
 ---
 
-### 🤝 Connect with me
+<h3 align="center">🤝 Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C3%B6mer-ensar-cengiz-249a4825a/" target="_blank">
